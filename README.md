@@ -7,7 +7,7 @@ Este Projeto redimenciona imagens pesadas para imagens mais leves sem perder a q
 - Programa feito em python
 - uso da biblioteca Pillow
 
-Fique a vontade para adicionar suas proprias imagens e fazer o testes.
+Fique a vontade para adicionar suas proprias imagens e fazer os testes.
 
 ## Como iniciar o Projeto
 
