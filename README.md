@@ -1,4 +1,4 @@
-# Redimensionador de Imagens
+# Projeto Redimensionador de Imagens
 
 Este Projeto redimenciona imagens pesadas para imagens mais leves sem perder a qualidade! Projeto ainda esta no início, novas funcionalidades serão adicionadas em breve.
 
