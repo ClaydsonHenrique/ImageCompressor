@@ -1,6 +1,7 @@
 from PIL import Image
 import os
 
+# exemplo de imagem
 imagem_path = "typescritp.jpg"
 
 
